@@ -1,5 +1,5 @@
 # hello-world
-The classic first computer program
+The classic first computer program /n
 Hey there! I'm doing this at my internship at Armedia, LLC.
 So far, I'm approaching the end of my third week - and I feel
 like I've learned so much so far! I'm making this Github account
